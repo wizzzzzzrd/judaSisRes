@@ -1,0 +1,140 @@
+ <div class="contFour">
+        <div class="boxFour">1</div>
+        <div class="boxFour">2</div>
+        <div class="boxFour">3</div>
+        <div class="boxFour">4</div>
+    </div>
+  <div class="contThree">
+        <div class="boxThree">5</div>
+        <div class="boxThree">6</div>
+        <div class="boxThree">7</div>
+    </div>
+    <div class="contTwo">
+        <div class="boxTwo">8</div>
+        <div class="boxTwo">9</div>
+    </div>
+    <div class="contOne">
+        <div class="boxOne">10</div>
+    </div>
+------------------------------------------------------------------------
+
+
+<div class="contTwo">
+        <div class="boxTwo">
+                <figure class="cont-img">
+                    <img src="" alt="">
+                </figure>
+        </div>
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Titulo</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+        </div>
+    </div>
+    <div class="contTwo">
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Titulo</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+        </div>
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="">
+            </figure>
+    </div>
+    </div>
+----------------------------------------------------------------------------
+SANDWITCH DE 3 IMG
+<div class="contOne" style="margin-top: 5%;">
+        <div class="boxOne">
+            <div class="cont-text">
+                <h2 class="title">Fosas nasales</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+            <br>
+        </div>
+    </div>
+    <div class="contThree">
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 1%;">
+            </figure>
+        </div>
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 8%;">
+            </figure>
+        </div>
+        <div class="boxThree">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 5%;">
+            </figure>
+        </div>
+    </div>  
+    <div class="contOne">
+        <div class="boxOne">
+            <div class="cont-text">
+                <h2 class="title">Función</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+		<p class="para"></p>
+            </div>
+            <br>
+        </div> 
+    </div> 
+-----------------------------------------------------------------------------------------
+DOBLE VERTICAL UNA IMAGEN UN TEXTO
+<div class="contTwo">
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 40%;">
+            </figure>
+        </div>
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Región respiratoria</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+            </div>
+            <br>
+        </div>
+    </div>
+    <div class="contTwo">
+        <div class="boxTwo">
+            <div class="cont-text">
+                <h2 class="title">Función</h2>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+                <p class="para"></p>
+ 		<p class="para"></p>
+            </div>
+            <br>
+        </div>
+        <div class="boxTwo">
+            <figure class="cont-img">
+                <img src="" alt="" style="margin-top: 40%;">
+            </figure>
+        </div>
+    </div>
+-----------------------------------------------------------------------------------------------
+  
